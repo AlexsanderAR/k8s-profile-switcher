@@ -8,7 +8,7 @@ alias k='. ~/k8s-profile-switch/k8s_profile.sh'
 ```
 
 # Todos
-- I'm trying to find a good way to show which is the current profile selected (maybe a $PS1 trick). For now the better solution is just run: 
+- I'm trying to find a good way to show which is the current profile selected (maybe a $PS1 trick). For now you should be good running a simple: 
 ```
 echo $KUBECONFIG
 ```

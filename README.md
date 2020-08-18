@@ -1,5 +1,5 @@
 # Info
-- This is just a very simple kubernetes profile switching tool
+- This is just a very simple kubernetes profile switching tool for Bash
 
 # How to use it
 - Just create an alias to the script file (I like to use it as one single key 'k')

@@ -1,5 +1,5 @@
 # Info
-- This is just a very simple kubernetes profile switching tool for Bash
+- This is just a very simple kubernetes profile switching tool for Bash. Alghtou there is kubectx I think it's too complex to acomplish such a simple task like that.
 - It'll make use of your kubernetes config (*.yml) files stored under **~/.kube** folder.
 
 # How to use it

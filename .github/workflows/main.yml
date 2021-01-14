@@ -31,5 +31,5 @@ jobs:
       - name: Step 2 - Lint script k8s_profile.sh
         run: shellcheck k8s_profile.sh
 
-      - name: Step 2 - Lint script k8s_profile.sh
+      - name: Step 2 - Lint script aws_profile.sh
         run: shellcheck aws_profile.sh

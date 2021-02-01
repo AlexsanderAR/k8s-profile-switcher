@@ -6,6 +6,7 @@
 - Just create an alias to the script file (I like to use it as one single key 'k')
 ```
 alias k='. ~/k8s-profile-switcher/k8s_profile.sh'
+alias a='. ~/k8s-profile-switcher/aws_profile.sh'
 ```
 
 # Todos

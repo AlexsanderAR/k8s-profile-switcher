@@ -1,8 +1,8 @@
 name: Bump version
 on:
-  merge:
-    branches:
-      - master
+  pull_request:
+    types: [closed]
+
 jobs:
   build:
     runs-on: ubuntu-latest

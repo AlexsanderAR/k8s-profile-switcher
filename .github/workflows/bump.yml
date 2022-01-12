@@ -1,6 +1,7 @@
 name: Bump version
 on:
-  github.event.pull_request.merged == true
+  pull_request:
+    types: [closed]
 
 jobs:
   build:

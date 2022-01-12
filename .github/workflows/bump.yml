@@ -1,8 +1,7 @@
 name: Bump version
 on:
-  merge:
-    branches:
-      - master
+  github.event.pull_request.merged == true
+
 jobs:
   build:
     runs-on: ubuntu-latest
